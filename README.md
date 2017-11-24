@@ -37,6 +37,9 @@ En vedlikeholdt liste av anbefalte bøker, innlegg, videoer og kurs innenfor for
 ### C#
 * Pluralsight C# path: https://www.pluralsight.com/paths/csharp
 
+### Design Patterns
+* Pluralsight Design Patterns Library: https://www.pluralsight.com/courses/patterns-library
+
 # Viderekommen
 
 ## Bøker
