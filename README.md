@@ -8,6 +8,7 @@ En vedlikeholdt liste av anbefalte bøker, innlegg, videoer og kurs innenfor for
 ### Kodekvalitet
 * Clean Code av Robert C. Martin
 * Code Complete 2 av Steve McConnell
+* Dependency Injection in .NET av Mark Seemann og Steven van Deursen
 
 ### Testing
 * Test-Driven Development: By Example av Kent Beck
