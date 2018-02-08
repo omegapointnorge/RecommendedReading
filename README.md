@@ -5,6 +5,9 @@ En vedlikeholdt liste av anbefalte bøker, innlegg, videoer og kurs innenfor for
 
 ## Bøker
 
+### Generelt 
+* [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/index.html) - Pearls of wisdom for programmers collected from leading practitioners
+
 ### Kodekvalitet
 * Clean Code av Robert C. Martin
 * Code Complete 2 av Steve McConnell
