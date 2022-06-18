@@ -18,6 +18,7 @@ En vedlikeholdt liste av anbefalte bøker, innlegg, videoer og kurs innenfor for
 
 ### Arkitektur
 * Building Microservices av Sam Newman
+* Clean Architecture av Robert C. Martin
 
 ### Prosjektledelse
 * The Mythical Man-Month av Fred Brooks
@@ -34,6 +35,7 @@ En vedlikeholdt liste av anbefalte bøker, innlegg, videoer og kurs innenfor for
 
 ### Soft Skills
 * The Pragmatic Programmer: From Journeyman to Master av Andrew Hunt og David Thomas
+* Soft Skills av John Sommez
 
 ## Video
 
@@ -50,9 +52,13 @@ En vedlikeholdt liste av anbefalte bøker, innlegg, videoer og kurs innenfor for
 ### Kodekvalitet
 * Design Patterns: Elements of Reusable Object-Oriented Software av Erich Gamma, John Vlissides, Ralph Johnson, og Richard Helm
 * Refactoring: Improving the Design of Existing Code av Martin Fowler
+* Working Effectively with Legacy Code av Michael C. Feathers
 
 ### Arkitektur
 * Patterns of Enterprise Application Architecture av Martin Fowler
 * Domain Driven Designs av Eric Evans
+
+### DevOps
+* The DevOps Handbook av Gene Kim, Jez Humble, Patrick Debois, & John Willis
 
 # Ekspert
